@@ -1,0 +1,11 @@
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\bin\Debug\Lab4aA.exe.config
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\bin\Debug\Lab4aA.exe
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\bin\Debug\Lab4aA.pdb
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.csprojAssemblyReference.cache
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.fMain.resources
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.Properties.Resources.resources
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.csproj.GenerateResource.cache
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.csproj.CoreCompileInputs.cache
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.exe
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.pdb
+C:\Users\Ura\source\repos\Lab4aA\Lab4aA\obj\Debug\Lab4aA.fTablet.resources
